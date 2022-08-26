@@ -113,11 +113,8 @@ vector<char> traducir(vector<pair<char, char>> tr, vector<char> str) {
     for(pair<char,char> tup : tr){
         trad[tup.first] = tup.second;
     }
-    for(pair<int,int> p : trad){
-        key.insert(p.first);
-    }
     for(char l : str){
-        if(key.count(l)){
+        if(trad.count(l)){
             res.push_back(trad[l]);
         } else {
             res.push_back(l);
@@ -128,17 +125,35 @@ vector<char> traducir(vector<pair<char, char>> tr, vector<char> str) {
 
 // Ejercicio 10
 bool integrantes_repetidos(vector<Mail> s) {
-    bool res = true;
-    map<LU, set<LU>> lus;
+    map<LU, set<LU>> lus; // a cada libreta le asocio su grupo (set de LUs)
     for(Mail m : s){
-        for(LU l : m.libretas()){
-            lus[l] =
+        set<LU> lib = m.libretas();
+        for(LU l : lib){
+            if(lus.count(l)){
+                return (lus[l] != lib);
+            } else{
+                lus[l] = lib;
+            }
         }
     }
-    return true;
+    return false;
 }
 
 // Ejercicio 11
 map<set<LU>, Mail> entregas_finales(vector<Mail> s) {
-  return map<set<LU>, Mail>();
+    map<set<LU>, Mail> res;
+    for(Mail m : s){
+        set<LU> libsMail = m.libretas();
+        Fecha date = m.fecha();
+        if(!res.count(libsMail)){
+            if(m.adjunto()){
+            res[libsMail] = m;
+            }
+        } else {
+            if(m.adjunto() && m.fecha() >= res[libsMail].fecha()){
+                res[libsMail] = m;
+            }
+        }
+    }
+    return res;
 }
