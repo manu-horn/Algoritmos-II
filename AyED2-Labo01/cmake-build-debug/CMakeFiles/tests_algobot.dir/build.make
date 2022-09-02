@@ -52,10 +52,10 @@ RM = "C:\Program Files\JetBrains\CLion 2022.2.1\bin\cmake\win\bin\cmake.exe" -E 
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = C:\Users\manuh\CLionProjects\Algoritmos-II---Labo\AyED2-Labo01
+CMAKE_SOURCE_DIR = C:\Users\manuh\CLionProjects\Algoritmos-II\AyED2-Labo01
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = C:\Users\manuh\CLionProjects\Algoritmos-II---Labo\AyED2-Labo01\cmake-build-debug
+CMAKE_BINARY_DIR = C:\Users\manuh\CLionProjects\Algoritmos-II\AyED2-Labo01\cmake-build-debug
 
 # Include any dependencies generated for this target.
 include CMakeFiles/tests_algobot.dir/depend.make
@@ -72,31 +72,31 @@ CMakeFiles/tests_algobot.dir/tests/tests_algobot.cpp.obj: CMakeFiles/tests_algob
 CMakeFiles/tests_algobot.dir/tests/tests_algobot.cpp.obj: CMakeFiles/tests_algobot.dir/includes_CXX.rsp
 CMakeFiles/tests_algobot.dir/tests/tests_algobot.cpp.obj: ../tests/tests_algobot.cpp
 CMakeFiles/tests_algobot.dir/tests/tests_algobot.cpp.obj: CMakeFiles/tests_algobot.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\manuh\CLionProjects\Algoritmos-II---Labo\AyED2-Labo01\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/tests_algobot.dir/tests/tests_algobot.cpp.obj"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/tests_algobot.dir/tests/tests_algobot.cpp.obj -MF CMakeFiles\tests_algobot.dir\tests\tests_algobot.cpp.obj.d -o CMakeFiles\tests_algobot.dir\tests\tests_algobot.cpp.obj -c C:\Users\manuh\CLionProjects\Algoritmos-II---Labo\AyED2-Labo01\tests\tests_algobot.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\manuh\CLionProjects\Algoritmos-II\AyED2-Labo01\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/tests_algobot.dir/tests/tests_algobot.cpp.obj"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/tests_algobot.dir/tests/tests_algobot.cpp.obj -MF CMakeFiles\tests_algobot.dir\tests\tests_algobot.cpp.obj.d -o CMakeFiles\tests_algobot.dir\tests\tests_algobot.cpp.obj -c C:\Users\manuh\CLionProjects\Algoritmos-II\AyED2-Labo01\tests\tests_algobot.cpp
 
 CMakeFiles/tests_algobot.dir/tests/tests_algobot.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/tests_algobot.dir/tests/tests_algobot.cpp.i"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\manuh\CLionProjects\Algoritmos-II---Labo\AyED2-Labo01\tests\tests_algobot.cpp > CMakeFiles\tests_algobot.dir\tests\tests_algobot.cpp.i
+	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\manuh\CLionProjects\Algoritmos-II\AyED2-Labo01\tests\tests_algobot.cpp > CMakeFiles\tests_algobot.dir\tests\tests_algobot.cpp.i
 
 CMakeFiles/tests_algobot.dir/tests/tests_algobot.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/tests_algobot.dir/tests/tests_algobot.cpp.s"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\manuh\CLionProjects\Algoritmos-II---Labo\AyED2-Labo01\tests\tests_algobot.cpp -o CMakeFiles\tests_algobot.dir\tests\tests_algobot.cpp.s
+	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\manuh\CLionProjects\Algoritmos-II\AyED2-Labo01\tests\tests_algobot.cpp -o CMakeFiles\tests_algobot.dir\tests\tests_algobot.cpp.s
 
 CMakeFiles/tests_algobot.dir/src/algobot.cpp.obj: CMakeFiles/tests_algobot.dir/flags.make
 CMakeFiles/tests_algobot.dir/src/algobot.cpp.obj: CMakeFiles/tests_algobot.dir/includes_CXX.rsp
 CMakeFiles/tests_algobot.dir/src/algobot.cpp.obj: ../src/algobot.cpp
 CMakeFiles/tests_algobot.dir/src/algobot.cpp.obj: CMakeFiles/tests_algobot.dir/compiler_depend.ts
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\manuh\CLionProjects\Algoritmos-II---Labo\AyED2-Labo01\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/tests_algobot.dir/src/algobot.cpp.obj"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/tests_algobot.dir/src/algobot.cpp.obj -MF CMakeFiles\tests_algobot.dir\src\algobot.cpp.obj.d -o CMakeFiles\tests_algobot.dir\src\algobot.cpp.obj -c C:\Users\manuh\CLionProjects\Algoritmos-II---Labo\AyED2-Labo01\src\algobot.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\manuh\CLionProjects\Algoritmos-II\AyED2-Labo01\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/tests_algobot.dir/src/algobot.cpp.obj"
+	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -MD -MT CMakeFiles/tests_algobot.dir/src/algobot.cpp.obj -MF CMakeFiles\tests_algobot.dir\src\algobot.cpp.obj.d -o CMakeFiles\tests_algobot.dir\src\algobot.cpp.obj -c C:\Users\manuh\CLionProjects\Algoritmos-II\AyED2-Labo01\src\algobot.cpp
 
 CMakeFiles/tests_algobot.dir/src/algobot.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/tests_algobot.dir/src/algobot.cpp.i"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\manuh\CLionProjects\Algoritmos-II---Labo\AyED2-Labo01\src\algobot.cpp > CMakeFiles\tests_algobot.dir\src\algobot.cpp.i
+	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\manuh\CLionProjects\Algoritmos-II\AyED2-Labo01\src\algobot.cpp > CMakeFiles\tests_algobot.dir\src\algobot.cpp.i
 
 CMakeFiles/tests_algobot.dir/src/algobot.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/tests_algobot.dir/src/algobot.cpp.s"
-	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\manuh\CLionProjects\Algoritmos-II---Labo\AyED2-Labo01\src\algobot.cpp -o CMakeFiles\tests_algobot.dir\src\algobot.cpp.s
+	C:\PROGRA~1\JETBRA~1\CLION2~1.1\bin\mingw\bin\G__~1.EXE $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\manuh\CLionProjects\Algoritmos-II\AyED2-Labo01\src\algobot.cpp -o CMakeFiles\tests_algobot.dir\src\algobot.cpp.s
 
 # Object files for target tests_algobot
 tests_algobot_OBJECTS = \
@@ -114,7 +114,7 @@ tests_algobot.exe: libgtest_main.a
 tests_algobot.exe: CMakeFiles/tests_algobot.dir/linklibs.rsp
 tests_algobot.exe: CMakeFiles/tests_algobot.dir/objects1.rsp
 tests_algobot.exe: CMakeFiles/tests_algobot.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\manuh\CLionProjects\Algoritmos-II---Labo\AyED2-Labo01\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Linking CXX executable tests_algobot.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\manuh\CLionProjects\Algoritmos-II\AyED2-Labo01\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Linking CXX executable tests_algobot.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\tests_algobot.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -126,6 +126,6 @@ CMakeFiles/tests_algobot.dir/clean:
 .PHONY : CMakeFiles/tests_algobot.dir/clean
 
 CMakeFiles/tests_algobot.dir/depend:
-	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" C:\Users\manuh\CLionProjects\Algoritmos-II---Labo\AyED2-Labo01 C:\Users\manuh\CLionProjects\Algoritmos-II---Labo\AyED2-Labo01 C:\Users\manuh\CLionProjects\Algoritmos-II---Labo\AyED2-Labo01\cmake-build-debug C:\Users\manuh\CLionProjects\Algoritmos-II---Labo\AyED2-Labo01\cmake-build-debug C:\Users\manuh\CLionProjects\Algoritmos-II---Labo\AyED2-Labo01\cmake-build-debug\CMakeFiles\tests_algobot.dir\DependInfo.cmake --color=$(COLOR)
+	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" C:\Users\manuh\CLionProjects\Algoritmos-II\AyED2-Labo01 C:\Users\manuh\CLionProjects\Algoritmos-II\AyED2-Labo01 C:\Users\manuh\CLionProjects\Algoritmos-II\AyED2-Labo01\cmake-build-debug C:\Users\manuh\CLionProjects\Algoritmos-II\AyED2-Labo01\cmake-build-debug C:\Users\manuh\CLionProjects\Algoritmos-II\AyED2-Labo01\cmake-build-debug\CMakeFiles\tests_algobot.dir\DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/tests_algobot.dir/depend
 

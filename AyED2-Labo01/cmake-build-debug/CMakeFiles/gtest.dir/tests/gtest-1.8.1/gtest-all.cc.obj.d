@@ -1,6 +1,6 @@
 CMakeFiles/gtest.dir/tests/gtest-1.8.1/gtest-all.cc.obj: \
- C:\Users\manuh\CLionProjects\Algoritmos-II---Labo\AyED2-Labo01\tests\gtest-1.8.1\gtest-all.cc \
- C:\Users\manuh\CLionProjects\Algoritmos-II---Labo\AyED2-Labo01\tests\gtest-1.8.1\gtest.h \
+ C:\Users\manuh\CLionProjects\Algoritmos-II\AyED2-Labo01\tests\gtest-1.8.1\gtest-all.cc \
+ C:\Users\manuh\CLionProjects\Algoritmos-II\AyED2-Labo01\tests\gtest-1.8.1\gtest.h \
  C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/limits \
  C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/x86_64-w64-mingw32/bits/c++config.h \
  C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/x86_64-w64-mingw32/bits/os_defines.h \

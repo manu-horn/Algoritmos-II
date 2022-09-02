@@ -1,6 +1,6 @@
 CMakeFiles/tests_ejercitacion.dir/src/algobot.cpp.obj: \
- C:\Users\manuh\CLionProjects\Algoritmos-II---Labo\AyED2-Labo01\src\algobot.cpp \
- C:\Users\manuh\CLionProjects\Algoritmos-II---Labo\AyED2-Labo01\src\algobot.h \
+ C:\Users\manuh\CLionProjects\Algoritmos-II\AyED2-Labo01\src\algobot.cpp \
+ C:\Users\manuh\CLionProjects\Algoritmos-II\AyED2-Labo01\src\algobot.h \
  C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/string \
  C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/x86_64-w64-mingw32/bits/c++config.h \
  C:/PROGRA~1/JETBRA~1/CLION2~1.1/bin/mingw/lib/gcc/x86_64-w64-mingw32/11.2.0/include/c++/x86_64-w64-mingw32/bits/os_defines.h \

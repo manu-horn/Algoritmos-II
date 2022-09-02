@@ -45,28 +45,28 @@
 				{
 					"directoryIndex" : 0,
 					"id" : "gtest::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-gtest-Debug-a6b542be7d7142125278.json",
+					"jsonFile" : "target-gtest-Debug-63e9b0577ea6df1cc822.json",
 					"name" : "gtest",
 					"projectIndex" : 0
 				},
 				{
 					"directoryIndex" : 0,
 					"id" : "gtest_main::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-gtest_main-Debug-0a1c78efce392cfc9268.json",
+					"jsonFile" : "target-gtest_main-Debug-e512ecfb4b3425466d5c.json",
 					"name" : "gtest_main",
 					"projectIndex" : 0
 				},
 				{
 					"directoryIndex" : 0,
 					"id" : "tests_algobot::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-tests_algobot-Debug-2c29b3c9c77d60f1d50f.json",
+					"jsonFile" : "target-tests_algobot-Debug-f1b300f402a60effc77c.json",
 					"name" : "tests_algobot",
 					"projectIndex" : 0
 				},
 				{
 					"directoryIndex" : 0,
 					"id" : "tests_ejercitacion::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-tests_ejercitacion-Debug-1558da87b2be5c8c1fdd.json",
+					"jsonFile" : "target-tests_ejercitacion-Debug-b0cf5327e11b966caee1.json",
 					"name" : "tests_ejercitacion",
 					"projectIndex" : 0
 				}
@@ -76,8 +76,8 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-		"build" : "C:/Users/manuh/CLionProjects/Algoritmos-II---Labo/AyED2-Labo01/cmake-build-debug",
-		"source" : "C:/Users/manuh/CLionProjects/Algoritmos-II---Labo/AyED2-Labo01"
+		"build" : "C:/Users/manuh/CLionProjects/Algoritmos-II/AyED2-Labo01/cmake-build-debug",
+		"source" : "C:/Users/manuh/CLionProjects/Algoritmos-II/AyED2-Labo01"
 	},
 	"version" : 
 	{
