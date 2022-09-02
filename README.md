@@ -1,1 +1,3 @@
-# Algoritmos-II---Labo
+# Algoritmos-II
+
+Repositorio para archivos de labo, entregables, prácticas, etc
